@@ -1,0 +1,8 @@
+../Core/Src/ae_p1.c:15:6:print_ptr_addr	0	static
+../Core/Src/ae_p1.c:23:6:free_blocks	16	static
+../Core/Src/ae_p1.c:27:6:single_task	16	static
+../Core/Src/ae_p1.c:44:6:third_task	8	static
+../Core/Src/ae_p1.c:53:6:first_task	8	static
+../Core/Src/ae_p1.c:64:6:second_task	40	static
+../Core/Src/ae_p1.c:75:6:simple_test	24	static
+../Core/Src/ae_p1.c:143:6:memory_test_task1	24	static

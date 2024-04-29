@@ -1,0 +1,8 @@
+../Core/Src/ae_p1.c:15:6:print_ptr_addr	2
+../Core/Src/ae_p1.c:23:6:free_blocks	1
+../Core/Src/ae_p1.c:27:6:single_task	3
+../Core/Src/ae_p1.c:44:6:third_task	2
+../Core/Src/ae_p1.c:53:6:first_task	2
+../Core/Src/ae_p1.c:64:6:second_task	1
+../Core/Src/ae_p1.c:75:6:simple_test	6
+../Core/Src/ae_p1.c:143:6:memory_test_task1	1
